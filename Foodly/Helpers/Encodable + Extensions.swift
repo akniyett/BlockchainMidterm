@@ -2,7 +2,7 @@
 //  Encodable + Extensions.swift
 //  Foodly
 //
-//  Created by Decagon on 5/31/21.
+//  Created by Akniyet Turdybay on 30/10/2022.
 //
 
 import Foundation

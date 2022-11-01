@@ -2,7 +2,7 @@
 //  OnboardingCollectionViewCell.swift
 //  Foodly
 //
-//  Created by Usman on 31/05/2021.
+//  Created by Amina Moldamyrza on 30/10/2022.
 //
 
 import UIKit

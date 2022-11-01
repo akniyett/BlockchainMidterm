@@ -2,7 +2,7 @@
 //  SearchViewController.swift
 //  Foodly
 //
-//  Created by Decagon on 12/06/2021.
+//  Created by Akniyet Turdybay on 30/10/2022.
 //
 
 import UIKit

@@ -2,7 +2,7 @@
 //  File.swift
 //  Foodly
 //
-//  Created by Decagon on 6/5/21.
+//  Created by Amina Moldamyrza on 29/10/2022.
 //
 
 import Foundation

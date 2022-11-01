@@ -2,7 +2,7 @@
 //  SearchViewModel.swift
 //  Foodly
 //
-//  Created by Decagon on 14/07/2021.
+//  Created by Akniyet Turdybay on 30/10/2022.
 //
 import UIKit
 import FirebaseFirestore

@@ -2,7 +2,7 @@
 //  Restaurants.swift
 //  Foodly
 //
-//  Created by omokagbo on 07/06/2021.
+//  Created by Elvina Shamoi on 29/10/2022.
 //
 
 import UIKit

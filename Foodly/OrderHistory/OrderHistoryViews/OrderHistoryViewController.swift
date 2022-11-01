@@ -2,7 +2,7 @@
 //  OrderHistoryViewController.swift
 //  Foodly
 //
-//  Created by omokagbo on 16/06/2021.
+//  Created by Akniyet Turdybay on 31/10/2022.
 //
 
 import UIKit

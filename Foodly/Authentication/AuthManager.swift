@@ -2,7 +2,7 @@
 //  AuthManager.swift
 //  Foodly
 //
-//  Created by Usman on 09/06/2021.
+//  Created by Akniyet Turdybay on 24/10/2022.
 //
 
 import Foundation

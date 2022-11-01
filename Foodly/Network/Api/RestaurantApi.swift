@@ -2,7 +2,7 @@
 //  RestaurantApi.swift
 //  Foodly
 //
-//  Created by Decagon on 6/21/21.
+//   Created by Akniyet Turdybay on 28/10/2022.
 //
 
 import Foundation

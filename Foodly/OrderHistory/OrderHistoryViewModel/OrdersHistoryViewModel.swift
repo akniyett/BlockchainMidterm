@@ -2,7 +2,7 @@
 //  OrdersHistoryViewModel.swift
 //  Foodly
 //
-//  Created by Decagon on 6/23/21.
+//  Created by Akniyet Turdybay on 31/10/2022.
 //
 
 import UIKit

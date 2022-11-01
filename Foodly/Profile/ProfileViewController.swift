@@ -1,6 +1,6 @@
 //  ProfileViewController.swift
 //  Foodly
-//  Created by Decagon on 12/06/2021.
+//  Created by Akniyet Turdybay on 31/10/2022.
 
 import Foundation
 import FirebaseFirestore

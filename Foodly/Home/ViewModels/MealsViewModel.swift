@@ -2,7 +2,7 @@
 //  MealsViewModel.swift
 //  Foodly
 //
-//  Created by omokagbo on 08/06/2021.
+//  Created by Elvina Shamoi on 30/10/2022.
 //
 
 import UIKit

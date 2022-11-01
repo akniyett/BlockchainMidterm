@@ -2,7 +2,7 @@
 //  MealsApi.swift
 //  Foodly
 //
-//  Created by Decagon on 7/4/21.
+//  Created by Amina Moldamyrza on 28/10/2022.
 //
 import Foundation
 import FirebaseFirestore

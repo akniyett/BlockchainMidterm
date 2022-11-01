@@ -2,7 +2,7 @@
 //  SignupViewController.swift
 //  Foodly
 //
-//  Created by Usman on 30/05/2021.
+//  Created by Akniyet Turdybay on 29/10/2022.
 //
 
 import UIKit
@@ -40,7 +40,7 @@ class SignupViewController: UIViewController {
             self.showAlert(alertText: "Oops", alertMessage: "Please enter your password")
         }
         
-        if passField.text != "" && passField.text!.isValidPassword == false {
+        if passField.text != "" && passField.text!.isValidPassword == true {
             self.showAlert(alertText: "Oops",
                            alertMessage: "Password must be alphanumeric and must be greater than 8 characters")
         }
@@ -62,7 +62,8 @@ class SignupViewController: UIViewController {
                     HUD.hide()
                 } else {
                     let docId = Auth.auth().currentUser?.uid
-                    Firestore.firestore().collection("users").document(docId!).setData(
+                    guard let docId = docId else { return }
+                    Firestore.firestore().collection("users").document(docId).setData(
                         ["email": email, "fullName": fullName,
                          "address": "Update your address", "phoneNumber": "Update Phone Number"]) { (error) in
                         if error != nil {

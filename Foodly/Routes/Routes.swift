@@ -2,7 +2,7 @@
 //  Routes.swift
 //  Foodly
 //
-//  Created by Usman on 10/06/2021.
+//  Created by Akniyet Turdybay on 24/10/2022.
 //
 
 import UIKit
@@ -15,7 +15,8 @@ class Routes {
 			.instantiateViewController(identifier: "LoginViewController") as LoginViewController
 		newController.modalTransitionStyle = .crossDissolve
 		newController.modalPresentationStyle = .fullScreen
-		OnboardingViewController().present(newController, animated: true, completion: nil)
+        let onboardingVC = OnboardingViewController()
+        onboardingVC.present(newController, animated: true, completion: nil)
 	}
 	
 }

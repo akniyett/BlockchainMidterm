@@ -2,7 +2,7 @@
 //  MealService.swift
 //  Foodly
 //
-//  Created by Decagon on 6/21/21.
+//  Created by Amina Moldamyrza on 27/10/2022.
 //
 
 import Foundation

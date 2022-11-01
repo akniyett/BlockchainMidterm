@@ -2,7 +2,7 @@
 //  ProfileService.swift
 //  Foodly
 //
-//  Created by Decagon on 29/06/2021.
+//  Created by Akniyet Turdybay on 27/10/2022.
 //
 
 import Foundation

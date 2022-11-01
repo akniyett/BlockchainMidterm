@@ -2,7 +2,7 @@
 //  SignupViewModel.swift
 //  Foodly
 //
-//  Created by Usman on 08/06/2021.
+//  Created by Akniyet Turdybay on 29/10/2022.
 //
 
 import Foundation

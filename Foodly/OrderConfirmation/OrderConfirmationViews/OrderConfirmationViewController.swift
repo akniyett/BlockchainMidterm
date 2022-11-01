@@ -2,7 +2,7 @@
 //  OrderConfirmationViewController.swift
 //  Foodly
 //
-//  Created by Decagon on 6/16/21.
+//  Created by Amina Moldamyrza on 31/10/2022.
 //
 
 import UIKit

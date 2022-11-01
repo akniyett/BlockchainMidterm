@@ -2,7 +2,7 @@
 //  RestaurantItemsTableViewCell.swift
 //  Foodly
 //
-//  Created by Decagon on 08/06/2021.
+//  Created by Amina Moldamyrza on 30/10/2022.
 //
 
 import UIKit

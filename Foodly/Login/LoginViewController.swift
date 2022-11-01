@@ -2,7 +2,7 @@
 //  LoginViewController.swift
 //  Foodly
 //
-//  Created by Usman on 30/05/2021.
+//  Created by Akniyet Turdybay on 30/10/2022.
 //
 
 import UIKit

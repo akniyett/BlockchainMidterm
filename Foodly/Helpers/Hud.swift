@@ -2,7 +2,7 @@
 //  Hud.swift
 //  Foodly
 //
-//  Created by Decagon on 09/06/2021.
+//  Created by Akniyet Turdybay on 30/10/2022.
 //
 
 import Foundation

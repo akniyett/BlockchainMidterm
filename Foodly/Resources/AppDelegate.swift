@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Foodly
 //
-//  Created by Decagon on 29/05/2021.
+//  Created by Akniyet Turdybay on 24/10/2022.
 //
 
 import UIKit

@@ -2,7 +2,7 @@
 //  CartModel.swift
 //  Foodly
 //
-//  Created by Decagon on 15/06/2021.
+//  Created by Elvina Shamoi on 31/10/2022.
 //
 
 import UIKit

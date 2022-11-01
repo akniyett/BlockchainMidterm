@@ -2,7 +2,7 @@
 //  ViewController + Extension.swift
 //  Foodly
 //
-//  Created by omokagbo on 01/06/2021.
+//  Created by Amina Moldamyrza on 31/10/2022.
 //
 
 import UIKit
