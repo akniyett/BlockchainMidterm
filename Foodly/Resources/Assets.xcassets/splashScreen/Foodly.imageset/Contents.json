@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "Foodly.png",
+      "filename" : "Foodly-1.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "Foodly-1.png",
+      "filename" : "Foodly-2.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "Foodly-2.png",
+      "filename" : "Foodly.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
